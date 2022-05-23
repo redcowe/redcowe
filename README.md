@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh!✌ <br/>
+<h1>Hi, I'm Josh! ✌ <br/>
 <h2>Current Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (Leetcode)</b>
