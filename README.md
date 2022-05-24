@@ -5,8 +5,6 @@
   - [Praciting DS & Algos in C#](https://github.com/redcowe/Leetcode)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
-- <b>Go</b>
-  - [Client-Server Chat Client](https://github.com/redcowe/chat-client-server)
 
 <h2>Past Projects</h2>
 
@@ -23,6 +21,8 @@
     - [Substrings](https://github.com/redcowe/substrings)
     - [Stock Picker](https://github.com/redcowe/stock-picker)
     - [Bubble Sort](https://github.com/redcowe/bubble-sort) 
+  - <b>Go</b>
+    - [Client-Server Chat](https://github.com/redcowe/chat-client-server)
 </h2>
 <h2>Connect with me:</h2>
 
