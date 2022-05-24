@@ -5,6 +5,8 @@
   - [Praciting DS & Algos in C#](https://github.com/redcowe/Leetcode)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
+ - <b>Go</b>
+   - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
 
 <h2>Past Projects</h2>
 
