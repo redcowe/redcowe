@@ -18,6 +18,7 @@
     - [Inventory Management System](https://github.com/redcowe/InventoryManagementSystem)
   - <b>JavaScript/Typescript Projects</b>
     - [Etch-a-Sketch(Live)](https://redcowe.github.io/etch-a-sketch/)
+    - [Library](https://github.com/redcowe/library)
   - <b>Ruby</b>
     - [Caesar Cipher](https://github.com/redcowe/caesar-cipher)
     - [Substrings](https://github.com/redcowe/substrings)
