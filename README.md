@@ -1,8 +1,8 @@
 <h1>Hi, I'm Josh! ✌ <br/>
 <h2>Current Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (Leetcode)</b>
-  - [Praciting DS & Algos in C#](https://github.com/redcowe/Leetcode)
+- <b>Data Structures and Algorithms Practice</b>
+  - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
  - <b>Go</b>
