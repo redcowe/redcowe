@@ -1,5 +1,5 @@
-<h1>Hi, I'm Josh! ✌ <br/>
-<h2>Current Projects:</h2>
+<h1>Hi, I'm Josh! ✌🏾 <br/>
+<h2>👨‍💻 Current Projects: </h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
@@ -8,7 +8,7 @@
  - <b>Go</b>
    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
 
-<h2>Past Projects</h2>
+<h2>👨‍💻 Past Projects: </h2>
 
   - <b>C++ Projects</b>
     - [C++ Student Roster Program](https://github.com/redcowe/student-roster)
