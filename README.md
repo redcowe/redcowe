@@ -14,8 +14,8 @@
     - [C++ Student Roster Program](https://github.com/redcowe/student-roster)
   - <b>C# Projects</b>
     - [Student Term Tracker Mobile App](https://github.com/redcowe/StudentTermTracker)
-    - [Appointment Manager](https://github.com/redcowe/AppointmentManager)
     - [Inventory Management System](https://github.com/redcowe/InventoryManagementSystem)
+    - [Appointment Manager](https://github.com/redcowe/AppointmentManager)
   - <b>JavaScript/Typescript Projects</b>
     - [Etch-a-Sketch(Live)](https://redcowe.github.io/etch-a-sketch/)
     - [Library](https://github.com/redcowe/library)
