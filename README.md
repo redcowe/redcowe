@@ -7,6 +7,7 @@
   - [jcowe.dev](https://github.com/redcowe/personal_site)
  - <b>Go</b>
    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
+   - [Clipboard-to-Anki](https://github.com/redcowe/clipboard-to-anki)
 
 <h2>👨‍💻 Past Projects: </h2>
 
