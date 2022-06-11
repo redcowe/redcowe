@@ -20,6 +20,7 @@
   - <b>JavaScript/Typescript Projects</b>
     - [Etch-a-Sketch(Live)](https://redcowe.github.io/etch-a-sketch/)
     - [Library](https://github.com/redcowe/library)
+    - [Jest Testing](https://github.com/redcowe/jest_testing)
   - <b>Ruby</b>
     - [Caesar Cipher](https://github.com/redcowe/caesar-cipher)
     - [Substrings](https://github.com/redcowe/substrings)
