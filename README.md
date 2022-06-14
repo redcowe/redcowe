@@ -5,6 +5,7 @@
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
+  - [Weather App](https://github.com/redcowe/weather_app)
  - <b>Go</b>
    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
    - [Clipboard-to-Anki](https://github.com/redcowe/clipboard-to-anki)
