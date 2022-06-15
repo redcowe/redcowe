@@ -5,7 +5,6 @@
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
-  - [Weather App](https://github.com/redcowe/weather_app)
  - <b>Go</b>
    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
    - [Clipboard-to-Anki](https://github.com/redcowe/clipboard-to-anki)
@@ -23,6 +22,7 @@
     - [Library](https://github.com/redcowe/library)
     - [Jest Testing](https://github.com/redcowe/jest_testing)
     - [Basic Info Site](https://github.com/redcowe/basic_informational_site)
+    - [Weather App](https://github.com/redcowe/weather_app)
   - <b>Ruby</b>
     - [Caesar Cipher](https://github.com/redcowe/caesar-cipher)
     - [Substrings](https://github.com/redcowe/substrings)
