@@ -5,9 +5,10 @@
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
+  - [Practicing Express](https://github.com/redcowe/practicing_express)
  - <b>Go</b>
    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
-   - [Clipboard-to-Anki](https://github.com/redcowe/clipboard-to-anki)
+
 
 <h2>(古) Past Projects: </h2>
 
@@ -36,18 +37,3 @@
 [<img align="left" alt="Joshua Cowell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joshuacowell/
-
-<!--
-**redcowe/redcowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
