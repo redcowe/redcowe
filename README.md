@@ -5,9 +5,8 @@
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
 - <b>Personal website(React)</b>
   - [jcowe.dev](https://github.com/redcowe/personal_site)
-  - [Practicing Express](https://github.com/redcowe/practicing_express)
  - <b>Go</b>
-   - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
+   
 
 
 <h2>(古) Past Projects: </h2>
@@ -24,12 +23,14 @@
     - [Jest Testing](https://github.com/redcowe/jest_testing)
     - [Basic Info Site](https://github.com/redcowe/basic_informational_site)
     - [Weather App](https://github.com/redcowe/weather_app)
+    - [Practicing Express](https://github.com/redcowe/practicing_express)
   - <b>Ruby</b>
     - [Caesar Cipher](https://github.com/redcowe/caesar-cipher)
     - [Substrings](https://github.com/redcowe/substrings)
     - [Stock Picker](https://github.com/redcowe/stock-picker)
     - [Bubble Sort](https://github.com/redcowe/bubble-sort) 
   - <b>Go</b>
+    - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
     - [Client-Server Chat](https://github.com/redcowe/chat-client-server)
 </h2>
 <h2>Connect with me:</h2>
