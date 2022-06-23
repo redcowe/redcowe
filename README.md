@@ -32,6 +32,7 @@
   - <b>Go</b>
     - [Akiya-Scraper](https://github.com/redcowe/akiya-scrapper)
     - [Client-Server Chat](https://github.com/redcowe/chat-client-server)
+    - [Anki To Clipboard](https://github.com/redcowe/clipboard-to-anki)
 </h2>
 <h2>Connect with me:</h2>
 
