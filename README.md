@@ -1,5 +1,5 @@
 <h1>Hi, I'm Josh! ✌🏾 <br/>
-<h2>(今) What I've Been Up To Recently: </h2>
+<h2>(新) What I've Been Up To Recently: </h2>
 
 - <b>Data Structures and Algorithms Practice</b>
   - [Praciting DS & Algos](https://github.com/redcowe/DSAlgosPractice)
